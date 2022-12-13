@@ -1,0 +1,15 @@
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\bin\Debug\net6.0\Ola Mundo.exe
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\bin\Debug\net6.0\Ola Mundo.deps.json
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\bin\Debug\net6.0\Ola Mundo.runtimeconfig.json
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\bin\Debug\net6.0\Ola Mundo.dll
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\bin\Debug\net6.0\Ola Mundo.pdb
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.csproj.AssemblyReference.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.AssemblyInfoInputs.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.AssemblyInfo.cs
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.csproj.CoreCompileInputs.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.dll
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\refint\Ola Mundo.dll
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.pdb
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\Ola Mundo.genruntimeconfig.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Ola Mundo\Ola Mundo\obj\Debug\net6.0\ref\Ola Mundo.dll

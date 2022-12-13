@@ -1,0 +1,15 @@
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\bin\Debug\net6.0\bytebank.exe
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\bin\Debug\net6.0\bytebank.deps.json
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\bin\Debug\net6.0\bytebank.runtimeconfig.json
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\bin\Debug\net6.0\bytebank.dll
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\bin\Debug\net6.0\bytebank.pdb
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.AssemblyInfo.cs
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.dll
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\refint\bytebank.dll
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.pdb
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\bytebank.genruntimeconfig.cache
+C:\Users\allana\Documents\Iniciacao Cientifica\Contas\bytebank\bytebank\obj\Debug\net6.0\ref\bytebank.dll
